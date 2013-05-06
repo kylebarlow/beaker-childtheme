@@ -1,0 +1,21 @@
+/*   
+Theme Name: Beaker
+Theme URI: https://github.com/kylebarlow/beaker-childtheme
+Description: Beaker child theme. Parent theme is Thematic
+Author: Kyle Barlow
+Author URI: http://www.kylebarlow.com
+Template: Thematic
+*/
+
+/* @import url(http://fonts.googleapis.com/css?family=Roboto|Indie+Flower); */
+@import url(../Thematic/style.css);
+
+/* html { */
+/*   font-family: 'Roboto',sans-serif; */
+/*   /\* 1 *\/ */
+/*   -webkit-text-size-adjust: 100%; */
+/*   /\* 2 *\/ */
+/*   -ms-text-size-adjust: 100%; */
+/*   /\* 2 *\/ */
+/* } */
+
