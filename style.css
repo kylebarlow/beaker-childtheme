@@ -37,3 +37,6 @@ This work, like WordPress, is released under GNU General Public License, version
 
 /* Overriding Thematic's styles for congruity with WP-Admin > Appearance > Header default header text color settings */
 #blog-description { color: #000 }
+
+/* @import url(http://fonts.googleapis.com/css?family=Faster+One); */
+/* body, input, textarea { font-family: 'Faster One', sans-serif; } */
